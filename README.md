@@ -29,6 +29,16 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 
 
 ![Screenshot of the CLI](screenshots/CLI.png)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 ![Screenshot of the Interface](screenshots/image.png)
 
 ## Contact
